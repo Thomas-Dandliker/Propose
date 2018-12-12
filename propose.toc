@@ -1,12 +1,11 @@
-\babel@toc {french}{}
+\select@language {french}
 \vspace {2cm}
 \contentsline {section}{\numberline {1}Introduction}{3}{section.1}
-\contentsline {section}{\numberline {2}Mat\IeC {\'e}riels et m\IeC {\'e}thodes}{5}{section.2}
+\contentsline {section}{\numberline {2}Mat\IeC {\'e}riel et m\IeC {\'e}thodes}{5}{section.2}
 \contentsline {subsection}{\numberline {2.1}Aire d'\IeC {\'e}tude}{5}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Mesures de branches}{5}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}Mesures de branches}{6}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Analyse statistique}{9}{subsubsection.2.2.1}
-\contentsline {subsection}{\numberline {2.3}Mod\IeC {\'e}lisation du d\IeC {\'e}filement}{9}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Mod\IeC {\'e}lisation du panier de produit}{9}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.3}Mod\IeC {\'e}lisation du d\IeC {\'e}filement et de la composition du panier de produits}{10}{subsection.2.3}
 \contentsline {section}{\numberline {3}R\IeC {\'e}sultats escompt\IeC {\'e}s}{10}{section.3}
-\contentsline {section}{\numberline {4}Conclusion}{10}{section.4}
-\contentsline {section}{\numberline {5}\IeC {\'E}ch\IeC {\'e}ancier}{11}{section.5}
+\contentsline {section}{\numberline {4}Conclusion}{11}{section.4}
+\contentsline {section}{\numberline {5}\IeC {\'E}ch\IeC {\'e}ancier}{12}{section.5}
