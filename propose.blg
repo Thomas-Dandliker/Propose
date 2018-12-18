@@ -1,15 +1,15 @@
 This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: Proposé.aux
+The top-level auxiliary file: propose.aux
 The style file: unsrt.bst
 Database file #1: biblio.bib
 Warning--entry type for "Gouv2017" isn't style-file defined
 --line 210 of file biblio.bib
+Warning--empty journal in Pregent2010
 Warning--empty journal in Richard2015
-Warning--empty journal in Will2010
 Warning--can't use both volume and number fields in Pregent1998
 Warning--empty publisher in Pregent1998
-Warning--empty journal in MFFP2016
+Warning--empty journal in Will2010
 Warning--empty journal in FPInnovations2014
 Name 1 in "Liu, C., Zhang, S.Y., Cloutier, A., and Rycabel," has a comma at the end for entry Liu2007
 while executing---line 944 of file unsrt.bst
@@ -21,45 +21,47 @@ Too many commas in name 1 of "Liu, C., Zhang, S.Y., Cloutier, A., and Rycabel," 
 while executing---line 944 of file unsrt.bst
 Name 2 in "Liu, C., Zhang, S.Y., Cloutier, A., and Rycabel," has a comma at the end for entry Liu2007
 while executing---line 944 of file unsrt.bst
-You've used 28 entries,
+Warning--empty journal in MFFP2016
+Warning--empty journal in Methot2014
+You've used 30 entries,
             1791 wiz_defined-function locations,
-            639 strings with 9136 characters,
-and the built_in function-call counts, 6620 in all, are:
-= -- 593
-> -- 308
-< -- 3
-+ -- 115
-- -- 87
-* -- 527
-:= -- 1070
-add.period$ -- 83
-call.type$ -- 28
-change.case$ -- 27
+            649 strings with 9444 characters,
+and the built_in function-call counts, 7054 in all, are:
+= -- 633
+> -- 323
+< -- 4
++ -- 121
+- -- 91
+* -- 543
+:= -- 1131
+add.period$ -- 89
+call.type$ -- 30
+change.case$ -- 29
 chr.to.int$ -- 0
-cite$ -- 34
-duplicate$ -- 259
-empty$ -- 622
-format.name$ -- 87
-if$ -- 1411
+cite$ -- 38
+duplicate$ -- 289
+empty$ -- 659
+format.name$ -- 91
+if$ -- 1515
 int.to.chr$ -- 0
-int.to.str$ -- 28
-missing$ -- 28
-newline$ -- 142
-num.names$ -- 28
-pop$ -- 55
+int.to.str$ -- 30
+missing$ -- 30
+newline$ -- 152
+num.names$ -- 30
+pop$ -- 66
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 102
+skip$ -- 125
 stack$ -- 0
-substring$ -- 530
-swap$ -- 38
-text.length$ -- 3
+substring$ -- 542
+swap$ -- 51
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 6
-while$ -- 74
-width$ -- 30
-write$ -- 301
+warning$ -- 8
+while$ -- 77
+width$ -- 32
+write$ -- 320
 (There were 5 error messages)
